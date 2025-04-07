@@ -1,9 +1,16 @@
 # alt-container-guide
 
-Руководство по сборке и запуску контейнеров для дистрибутивов Альт
-
 [vitepress](https://vitepress.dev)
 [vitepress ru](https://vitepress.dev/ru/)
+
+## Tutorial
+
+### youtube
+* How To Build Your First Page in Vitepress (Как создать свою первую страницу в Vitepress) - https://www.youtube.com/watch?v=oh_n3aO3woU&pp=0gcJCX4JAYcqIYzv
+* How to Create a Custom Page in Vitepress (Как создать пользовательскую страницу в Vitepress) - https://www.youtube.com/watch?v=uiVsEEy-6Cc
+* Learn How to Write Beautiful Documentation with Vitepress (Узнайте, как создавать красивую документацию с помощью Vitepress) - https://www.youtube.com/watch?v=vZgY4y-rTig
+* How to Implement Multiple Sidebars with Vitepress (Как реализовать несколько боковых панелей с помощью Vitepress) - https://www.youtube.com/watch?v=XVoGR-Tf9Ks
+
 
 ## Установка VitePress
 

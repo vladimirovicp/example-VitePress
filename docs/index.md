@@ -8,6 +8,8 @@
 
 ### Routes
 
+[team](/team)
+
 [contact](/contact)
 
 [contact](/contact.md)
