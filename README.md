@@ -6,6 +6,8 @@
 ## Tutorial
 
 ### youtube
+* VitePress — создание современных библиотек знаний для операционных систем семейства Linux в стеке V - (https://www.youtube.com/watch?v=P2B1Ej0axeM)
+    - https://github.com/OlegShchavelev/ALTGnomeWiki
 * How To Build Your First Page in Vitepress (Как создать свою первую страницу в Vitepress) - https://www.youtube.com/watch?v=oh_n3aO3woU&pp=0gcJCX4JAYcqIYzv
 * How to Create a Custom Page in Vitepress (Как создать пользовательскую страницу в Vitepress) - https://www.youtube.com/watch?v=uiVsEEy-6Cc
 * Learn How to Write Beautiful Documentation with Vitepress (Узнайте, как создавать красивую документацию с помощью Vitepress) - https://www.youtube.com/watch?v=vZgY4y-rTig
