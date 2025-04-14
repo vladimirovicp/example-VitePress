@@ -30,3 +30,5 @@ features:
     title: Ещё одна интересная функция
     details: Lorem ipsum...
 ---
+
+<playground />
