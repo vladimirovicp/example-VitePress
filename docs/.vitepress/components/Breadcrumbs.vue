@@ -29,7 +29,21 @@ const { page, site } = useData();
 const crumbs = computed(() => {
   const path = page.value.relativePath; // Текущий путь страницы
 
+  function getTitleByPath(path, pages) {
+  return pages.find((p) => p.relativePath === path)?.title || '';
+}
+
 console.log(path);
+
+console.log(path);
+
+    const currentPagePath = page.value.relativePath;
+  const parts = currentPagePath.split('/').filter((part) => part !== '');
+  const navPages = site.value.pages;
+
+  console.log('currentPagePath', currentPagePath);
+  console.log('parts', parts);
+  console.log('navPages', navPages);
 
   return path
     .split('/') // Разделяем путь по слэшу
