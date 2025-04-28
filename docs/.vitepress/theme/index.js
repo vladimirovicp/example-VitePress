@@ -3,6 +3,7 @@ import Playground from '../components/Playground.vue'
 import Features2 from '../components/Features2.vue'
 import AGWHomeSponsors from '../components/AGWHomeSponsors.vue'
 import Info from '../components/Info.vue'
+import Breadcrumbs from '../components/Breadcrumbs.vue'
 
 export default {
   ...Theme,
@@ -12,5 +13,6 @@ export default {
     app.component('features2', Features2);
     app.component('AGWHomeSponsors', AGWHomeSponsors);
     app.component('Info', Info);
+    app.component('Breadcrumbs', Breadcrumbs);
   }
 }

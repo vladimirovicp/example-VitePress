@@ -21,3 +21,5 @@ info:
 ---
 
 <Info />
+
+<Breadcrumbs />
